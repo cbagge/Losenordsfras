@@ -1,0 +1,276 @@
+# ============================================================================
+# SALDO 2.3 
+# Copyright 2015 Lars Borin, Markus Forsberg, Lennart Lönngren
+# samt Språkbanken, Göteborgs universitet
+# <http://spraakbanken.gu.se/>
+#
+# Detta är en fri resurs. Den kan användas, modifieras och spridas 
+# enligt villkoren i någon av licenserna (valfritt) 
+# 
+# Creative Commons Erkännande (BY) 3.0 Unported
+# eller
+# GNU Lesser General Public License 3.0
+# 
+# Båda licenstexterna ska vara distribuerade tillsammans med denna 
+# resurs. I annat fall, se 
+# 
+# <http://creativecommons.org/licenses/by/3.0/>
+# och
+# <http://www.gnu.org/licenses/lgpl.html>
+# 
+# I publikationer som redovisar resultat som bygger på användningen av 
+# denna resurs ber vi om en referens till SALDO och följande arbete: 
+#
+# Borin, Lars, Markus Forsberg and Lennart Lönngren 2013.
+# SALDO: a touch of yin to WordNet's yang. 
+# Language Resources and Evaluation 47(4): 1191-1211.
+# 
+# 
+# SALDO 2.3
+# Copyright 2015 Lars Borin, Markus Forsberg, Lennart Lönngren
+# and Språkbanken (the Swedish Language Bank), University of Gothenburg, Sweden
+# <http://spraakbanken.gu.se/>
+#
+# This is a free resource. You can freely use it, modify it and distribute it 
+# under the terms set out in either of the licenses
+# 
+# Creative Commons Attribution (BY) 3.0
+# or
+# GNU Lesser General Public License 3.0
+# 
+# You should have received both license texts distributed together 
+# with this resource. In other case, see
+# 
+# <http://creativecommons.org/licenses/by/3.0/>
+# and
+# <http://www.gnu.org/licenses/lgpl.html>
+# 
+# In publications where this resource is used, please 
+# refer to SALDO and the following work:
+#
+# Borin, Lars, Markus Forsberg and Lennart Lönngren 2013.
+# SALDO: a touch of yin to WordNet's yang. 
+# Language Resources and Evaluation 47(4): 1191-1211.
+# 
+# ============================================================================
+#
+_1984..1	roman..1	dystopi..1	_1984..pm.1	1984	pm	pm_uwb_hemsöborna
+_1984..1	roman..1	dystopi..1	nittonhundraåttiofyra..pm.1	nittonhundraåttiofyra	pm	pm_uwb_hemsöborna
+_1984..1	roman..1	dystopi..1	Nittonhundraåttiofyra..pm.1	Nittonhundraåttiofyra	pm	pm_uwb_hemsöborna
+a..1	bokstav..1	PRIM..1	a..nn.1	a	nn	nn_vn_alfa_abc
+A..1	initial..1	PRIM..1	A..nn.1	A	nn	nn_vn_alfa_abc
+à..1	per..1	PRIM..1	á..pp.1	á	pp	pp_i_i
+à..1	per..1	PRIM..1	à..pp.1	à	pp	pp_i_i
+a..2	ton..1	PRIM..1	a..nn.1	a	nn	nn_vn_alfa_abc
+A3..1	pappersark..1	PRIM..1	a3..nna.1	a3	nna	nna_0n_hk
+A3..1	pappersark..1	PRIM..1	A3..nna.1	A3	nna	nna_0n_hk
+A4..1	pappersark..1	PRIM..1	a4..nna.1	a4	nna	nna_0n_hk
+A4..1	pappersark..1	PRIM..1	A4..nna.1	A4	nna	nna_0n_hk
+A5..1	pappersark..1	PRIM..1	a5..nna.1	a5	nna	nna_0n_hk
+A5..1	pappersark..1	PRIM..1	A5..nna.1	A5	nna	nna_0n_hk
+aa..1	verk..1	citera..1	aa..nna.1	aa	nna	nna_in_ex
+Aalto..1	efternamn..1	arkitekt..1 finsk..1	Aalto..pm.1	Aalto	pm	pm_hph_berg
+Aar..1	flod..1	Schweiz..1	Aar..pm.1	Aar	pm	pm_ulg_fyris
+Aaron..1	förnamn..1	han..1	Aaron..pm.1	Aaron	pm	pm_mph_lars
+abakus..1	räkna..1	PRIM..1	abakus..nn.1	abakus	nn	nn_3u_karbid
+abalone..1	havsöra..1	PRIM..1	abalone..nn.1	abalone	nn	nn_4u_linje
+abandon..1	otvungen..1	PRIM..1	abandon..nn.1	abandon	nn	nn_0u_månsing
+Abba..1	popgrupp..1	PRIM..1	Abba..pm.1	Abba	pm	pm_poc_hepstars
+Abba..2	konservfabrik..1	PRIM..1	Abba..pm.2	Abba	pm	pm_nog_volvo
+Abbas..1	förnamn..1	han..1	Abbas..pm.1	Abbas	pm	pm_mph_lars
+Abbas..2	efternamn..1	Palestina..1 president..1	Abbas..pm.2	Abbas	pm	pm_hph_berg
+abbé..1	abbot..1	PRIM..1	abbé..nn.1	abbé	nn	nn_3u_akademi
+Abbe..1	förnamn..1	han..1	Abbe..pm.1	Abbe	pm	pm_mph_sture
+abbedissa..1	kloster..1	PRIM..1	abbedissa..nn.1	abbedissa	nn	nn_1u_olja
+abborre..1	fisk..1	PRIM..1	abborre..nn.1	abborre	nn	nn_2u_vinge
+abborre..1	fisk..1	PRIM..1	aborre..nn.1	aborre	nn	nn_2u_vinge
+abborrfisk..1	abborrliknande..1	PRIM..1	abborrfisk..nn.1	abborrfisk	nn	nn_2u_sten
+abborrliknande..1	abborre..1	likna..1	abborrliknande..av.1	abborrliknande	av	av_i_diverse
+abborrpinne..1	abborre..1	liten..1	abborrpinne..nn.1	abborrpinne	nn	nn_2u_ormbunke
+abbot..1	föreståndare..1	kloster..1	abbot..nn.1	abbot	nn	nn_2u_stol
+abbotlig..1	abbot..1	PRIM..1	abbotlig..av.1	abbotlig	av	av_1_gul
+abbotskap..1	abbot..1	PRIM..1	abbotskap..nn.1	abbotskap	nn	nn_0n_ansvar
+abbotskloster..1	kloster..1	abbot..1	abbotskloster..nn.1	abbotskloster	nn	nn_6n_foder
+abbotsstav..1	stav..1	abbot..1	abbotsstav..nn.1	abbotsstav	nn	nn_2u_mening
+abbotsstift..1	stift..1	abbot..1	abbotsstift..nn.1	abbotsstift	nn	nn_6n_departement
+abbotsvärdighet..1	abbot..1	PRIM..1	abbotsvärdighet..nn.1	abbotsvärdighet	nn	nn_0u_boskap
+abbreviation..1	abbreviera..1	PRIM..1	abbreviation..nn.1	abbreviation	nn	nn_3u_salong
+abbreviatur..1	abbreviera..1	PRIM..1	abbreviatur..nn.1	abbreviatur	nn	nn_3u_karbid
+abbreviera..1	förkorta..1	PRIM..1	abbreviera..vb.1	abbreviera	vb	vb_1a_beundra
+abbrevierande..1	abbreviera..1	PRIM..1	abbrevierande..nn.1	abbrevierande	nn	nn_5n_saldo
+abbrevierbar..1	abbreviera..1	möjlig..1	abbrevierbar..av.1	abbrevierbar	av	av_1_gul
+abbrevierbarhet..1	abbrevierbar..1	PRIM..1	abbrevierbarhet..nn.1	abbrevierbarhet	nn	nn_0u_boskap
+abbreviering..1	abbreviera..1	PRIM..1	abbreviering..nn.1	abbreviering	nn	nn_2u_mening
+abc..1	alfabet..1	PRIM..1	abc..nn.1	abc	nn	nn_vn_alfa_abc
+abc..2	grundkunskap..1	PRIM..1	abc..nn.1	abc	nn	nn_vn_alfa_abc
+abc-bok..1	bok..1	abc..1	abc-bok..nn.1	abc-bok	nn	nn_3u_bok
+abc-bok..2	bok..1	abc..2	abc-bok..nn.1	abc-bok	nn	nn_3u_bok
+Abchazien..1	Kaukasus..1	PRIM..1	Abchazien..pm.1	Abchazien	pm	pm_nlp_sverige
+abchazisk..1	Abchazien..1	PRIM..1	abchazisk..av.1	abchazisk	av	av_0_medelstor
+abderitisk..1	enfaldig..1	PRIM..1	abderitisk..av.1	abderitisk	av	av_1_gul
+abdikation..1	abdikera..1	PRIM..1	abdikation..nn.1	abdikation	nn	nn_3u_salong
+abdikationsakt..1	abdikation..1	PRIM..1	abdikationsakt..nn.1	abdikationsakt	nn	nn_3u_salong
+abdikationshot..1	hot..1	abdikera..1	abdikationshot..nn.1	abdikationshot	nn	nn_6n_departement
+abdikera..1	avgå..2	kung..1	abdikera..vb.1	abdikera	vb	vb_1a_beundra
+abdikerande..1	abdikera..1	PRIM..1	abdikerande..nn.1	abdikerande	nn	nn_5n_saldo
+abdikerbar..1	abdikera..1	möjlig..1	abdikerbar..av.1	abdikerbar	av	av_1_gul
+abdikerbarhet..1	abdikerbar..1	PRIM..1	abdikerbarhet..nn.1	abdikerbarhet	nn	nn_0u_boskap
+abdikering..1	abdikera..1	PRIM..1	abdikering..nn.1	abdikering	nn	nn_2u_mening
+Abdirahman..1	förnamn..1	han..1	Abdirahman..pm.1	Abdirahman	pm	pm_mph_lars
+abdomen..1	bakkropp..1	PRIM..1	abdomen..nn.1	abdomen	nn	nn_vv_abdomen
+abdomen..2	buk..1	PRIM..1	abdomen..nn.1	abdomen	nn	nn_vv_abdomen
+abdominal..1	abdomen..2	PRIM..1	abdominal..av.1	abdominal	av	av_0_medelstor
+abducensnervsjukdom..1	nervsjukdom..1	PRIM..1	abducensnervsjukdom..nn.1	abducensnervsjukdom	nn	nn_2u_mening
+abducensnervskada..1	nervskada..1	PRIM..1	abducensnervskada..nn.1	abducensnervskada	nn	nn_1u_olja
+Abdullah..1	förnamn..1	han..1	Abdullah..pm.1	Abdullah	pm	pm_mph_lars
+Abdullahi..1	förnamn..1	han..1	Abdullahi..pm.1	Abdullahi	pm	pm_mph_lars
+Abel..1	förnamn..1	Bibeln..1 han..1	Abel..pm.1	Abel	pm	pm_mpm_oden
+Abel..2	efternamn..1	matematiker..1 norsk..1	Abel..pm.2	Abel	pm	pm_hph_berg
+Abélard..1	efternamn..1	filosof..1 fransk..1	Abelard..pm.1	Abelard	pm	pm_hph_berg
+Abélard..1	efternamn..1	filosof..1 fransk..1	Abélard..pm.1	Abélard	pm	pm_hph_berg
+aber..1	hinder..1	oväntad..1	aber..nn.1	aber	nn	nn_6n_aber
+aberration..1	lins..1	PRIM..1	aberration..nn.1	aberration	nn	nn_3u_salong
+Abessinien..1	Etiopien..1	PRIM..1	Abessinien..pm.1	Abessinien	pm	pm_nlp_sverige
+abessinier..1	Abessinien..1	PRIM..1	abessinier..nn.1	abessinier	nn	nn_6u_akademiker
+abessinsk..1	Abessinien..1	PRIM..1	abessinsk..av.1	abessinsk	av	av_1_gul
+abessinska..1	abessinier..1	hon..1	abessinska..nn.1	abessinska	nn	nn_1u_olja
+abessiv..1	kasus..1	PRIM..1	abessiv..nn.1	abessiv	nn	nn_3u_karbid
+abetalipoproteinemi..1	ämnesomsättningsrubbning..1	PRIM..1	abetalipoproteinemi..nn.1	abetalipoproteinemi	nn	nn_0u_akribi
+ABF..1	bildningsförbund..1	PRIM..1	ABF..pma.1	ABF	pma	pma_noe_gu
+ABF..1	bildningsförbund..1	PRIM..1	Arbetarnas_bildningsförbund..pmm.1	Arbetarnas bildningsförbund	pmm	pmm_n0oe_göteborgs_universitet
+Abigail..1	förnamn..1	hon..1	Abigail..pm.1	Abigail	pm	pm_fph_karin
+abilitet..1	förmåga..1	PRIM..1	abilitet..nn.1	abilitet	nn	nn_3u_salong
+abiturient..1	elev..1	avgångsklass..1	abiturient..nn.1	abiturient	nn	nn_3u_tid
+abiturientexamen..1	studentexamen..1	PRIM..1	abiturientexamen..nn.1	abiturientexamen	nn	nn_ou_examen
+ablation..1	erosion..1	PRIM..1	ablation..nn.1	ablation	nn	nn_3u_salong
+ablativ..1	kasus..1	PRIM..1	ablativ..nn.1	ablativ	nn	nn_3u_karbid
+ablativform..1	ablativ..1	PRIM..1	ablativform..nn.1	ablativform	nn	nn_3u_karbid
+abnorm..1	onormal..1	PRIM..1	abnorm..av.1	abnorm	av	av_1_gul
+abnormalitet..1	avvikelse..1	psykologisk..1	abnormalitet..nn.1	abnormalitet	nn	nn_3u_salong
+abnormitet..1	abnorm..1	PRIM..1	abnormitet..nn.1	abnormitet	nn	nn_3u_salong
+abolition..1	benådning..1	PRIM..1	abolition..nn.1	abolition	nn	nn_3u_salong
+abolitionism..1	avskaffa..1	prostitution..1 slaveri..1	abolition..nn.1	abolition	nn	nn_3u_salong
+abolitionist..1	abolitionism..1	PRIM..1	abolitionist..nn.1	abolitionist	nn	nn_3u_karbid
+abolitionistisk..1	abolitionism..1	PRIM..1	abolitionistisk..av.1	abolitionistisk	av	av_0_medelstor
+A-bomb..1	atombomb..1	PRIM..1	a-bomb..nn.1	a-bomb	nn	nn_3u_salong
+A-bomb..1	atombomb..1	PRIM..1	A-bomb..nn.1	A-bomb	nn	nn_3u_salong
+abominabel..1	avskyvärd..1	PRIM..1	abominabel..av.1	abominabel	av	av_1_enkel
+abonnemang..1	abonnera..1	PRIM..1	abonnemang..nn.1	abonnemang	nn	nn_6n_departement
+abonnemangspris..1	pris..1	abonnemang..1	abonnemangspris..nn.1	abonnemangspris	nn	nn_3u_karbid
+abonnent..1	abonnera..1	PRIM..1	abonnent..nn.1	abonnent	nn	nn_3u_tid
+abonnera..1	beställa..1	PRIM..1	abonnera..vb.1	abonnera	vb	vb_1a_beundra
+abonnerande..1	abonnera..1	PRIM..1	abonnerande..nn.1	abonnerande	nn	nn_5n_saldo
+abonnerbar..1	abonnera..1	möjlig..1	abonnerbar..av.1	abonnerbar	av	av_1_gul
+abonnerbarhet..1	abonnerbar..1	PRIM..1	abonnerbarhet..nn.1	abonnerbarhet	nn	nn_0u_boskap
+abonnering..1	abonnera..1	PRIM..1	abonnering..nn.1	abonnering	nn	nn_2u_mening
+aboriginer..1	folk..4	Australien..1	aboriginer..nn.1	aboriginer	nn	nn_6u_akademiker
+aboriginer..1	folk..4	Australien..1	aborigin..nn.1	aborigin	nn	nn_3u_karbid
+aboriginsk..1	aboriginer..1	PRIM..1	aboriginsk..av.1	aboriginsk	av	av_0_medelstor
+abort..1	bort..1	foster..1	abort..nn.1	abort	nn	nn_3u_karbid
+abortera..1	abort..1	PRIM..1	abortera..vb.1	abortera	vb	vb_1a_beundra
+abortera..2	abortera..1	göra..1	abortera..vb.1	abortera	vb	vb_1a_beundra
+aborterande..1	abortera..1	PRIM..1	aborterande..nn.1	aborterande	nn	nn_5n_saldo
+aborterande..2	abortera..2	PRIM..1	aborterande..nn.1	aborterande	nn	nn_5n_saldo
+aborterbar..1	abortera..1	möjlig..1	aborterbar..av.1	aborterbar	av	av_1_gul
+aborterbarhet..1	aborterbar..1	PRIM..1	aborterbarhet..nn.1	aborterbarhet	nn	nn_0u_boskap
+abortering..1	abortera..1	PRIM..1	abortering..nn.1	abortering	nn	nn_2u_mening
+abortering..2	abortera..2	PRIM..1	abortering..nn.1	abortering	nn	nn_2u_mening
+abortfråga..1	fråga..3	abort..1	abortfråga..nn.1	abortfråga	nn	nn_1u_olja
+abortiv..1	abort..1	PRIM..1	abortiv..av.1	abortiv	av	av_0_medelstor
+abortiv..2	ofullgången..1	sjukdom..1	abortiv..av.1	abortiv	av	av_0_medelstor
+abortmotstånd..1	abort..1	mot..1	abortmotstånd..nn.1	abortmotstånd	nn	nn_6n_departement
+abortmotståndare..1	abortmotstånd..1	PRIM..1	abortmotståndare..nn.1	abortmotståndare	nn	nn_6u_kikare
+abortpiller..1	piller..1	abort..1	abortpiller..nn.1	abortpiller	nn	nn_6n_foder
+abortrådgivning..1	rådgivning..1	abort..1	abortrådgivning..nn.1	abortrådgivning	nn	nn_0u_boskap
+abortrådgivning..2	inrättning..1	abortrådgivning..1	abortrådgivning..nn.2	abortrådgivning	nn	nn_2u_mening
+aborträtt..1	rätt..2	abort..1	aborträtt..nn.1	aborträtt	nn	nn_3u_salong
+abortör..1	abort..1	PRIM..1	abortör..nn.1	abortör	nn	nn_3u_tid
+abradera..1	bryta_ned..1	PRIM..1	abradera..vb.1	abradera	vb	vb_1a_beundra
+abradera..2	abradera..1	bli..1	abradera..vb.1	abradera	vb	vb_1a_beundra
+abraderande..1	abradera..1	PRIM..1	abraderande..nn.1	abraderande	nn	nn_5n_saldo
+abraderbar..1	abradera..1	möjlig..1	abraderbar..av.1	abraderbar	av	av_1_gul
+abraderbarhet..1	abraderbar..1	PRIM..1	abraderbarhet..nn.1	abraderbarhet	nn	nn_0u_boskap
+abradering..1	abradera..1	PRIM..1	abradering..nn.1	abradering	nn	nn_2u_mening
+Abraham..1	förnamn..1	Bibeln..1 han..1 Lincoln..1 patriark..1	Abraham..pm.1	Abraham	pm	pm_mph_bo
+Abrahamsson..1	efternamn..1	PRIM..1	Abrahamsson..pm.1	Abrahamsson	pm	pm_hph_svensson
+abrakadabra..1	nonsens..1	PRIM..1	abrakadabra..nn.1	abrakadabra	nn	nn_0n_syre
+Abramovitj..1	efternamn..1	oligark..1 rysk..1	Abramovitj..pm.1	Abramovitj	pm	pm_hph_berg
+abrasion..1	abradera..1	PRIM..1	abrasion..nn.1	abrasion	nn	nn_3u_salong
+abrovink..1	knep..1	PRIM..1	abrovink..nn.1	abrovink	nn	nn_3u_karbid
+abrovink..1	knep..1	PRIM..1	abrovinsch..nn.1	abrovinsch	nn	nn_3u_karbid
+abrupt..1	plötslig..1	PRIM..1	abrupt..av.1	abrupt	av	av_1_akut
+abrupthet..1	abrupt..1	PRIM..1	abrupthet..nn.1	abrupthet	nn	nn_0u_boskap
+ABS-broms..1	bilbroms..1	PRIM..1	ABS-broms..nn.1	ABS-broms	nn	nn_2u_sten
+abscess..1	böld..1	PRIM..1	abscess..nn.1	abscess	nn	nn_3u_karbid
+abscessbildning..1	abscess..1	PRIM..1	abscessbildning..nn.1	abscessbildning	nn	nn_2u_mening
+absens..1	medvetslös..1	PRIM..1	absens..nn.1	absens	nn	nn_3u_karbid
+absensepilepsi..1	epilepsi..1	PRIM..1	absensepilepsi..nn.1	absensepilepsi	nn	nn_0u_akribi
+absid..1	kyrka..1	PRIM..1	absid..nn.1	absid	nn	nn_3u_karbid
+absint..1	likör..1	malört..1	absint..nn.1	absint	nn	nn_3u_tid
+abskissa..1	koordinatsystem..1	PRIM..1	abskissa..nn.1	abskissa	nn	nn_1u_aminosyra
+absolut..1	total..1	PRIM..1	absolut..av.1	absolut	av	av_1_akut
+Absolut..1	vodka..1	PRIM..1	Absolut..pm.1	Absolut	pm	pm_uae_keso
+absolut..2	säker..2	PRIM..1	absolut..ab.1	absolut	ab	ab_i_bort
+absoluta_nollpunkten..1	temperatur..1	PRIM..1	absoluta_nollpunkten..nnm.1	absoluta nollpunkten	nnm	nnm_du0_stampen
+absolutbelopp..1	matematik..1	PRIM..1	absolutbelopp..nn.1	absolutbelopp	nn	nn_6n_departement
+absoluthet..1	absolut..1	PRIM..1	absoluthet..nn.1	absoluthet	nn	nn_0u_boskap
+absolution..1	förlåta..1	PRIM..1	absolution..nn.1	absolution	nn	nn_3u_salong
+absolutism..1	envälde..1	PRIM..1	absolutism..nn.1	absolutism	nn	nn_3u_karbid
+absolutism..2	nykterhet..1	PRIM..1	absolutism..nn.1	absolutism	nn	nn_3u_karbid
+absolutist..1	absolutism..2	PRIM..1	absolutist..nn.1	absolutist	nn	nn_3u_karbid
+absolutistisk..1	absolutism..1	PRIM..1	absolutistisk..av.1	absolutistisk	av	av_1_gul
+absolutistisk..2	absolutism..2	PRIM..1	absolutistisk..av.1	absolutistisk	av	av_1_gul
+absolutiv..1	kasus..1	PRIM..1	absolutiv..nn.1	absolutiv	nn	nn_3u_karbid
+absolutivobjekt..1	objekt..2	absolutiv..1	absolutivobjekt..nn.1	absolutivobjekt	nn	nn_6n_bord
+absolutivsubjekt..1	subjekt..1	absolutiv..1	absolutivsubjekt..nn.1	absolutivsubjekt	nn	nn_6n_bord
+absolvera..1	avlägga..1	examen..1	absolvera..vb.1	absolvera	vb	vb_1a_beundra
+absolverande..1	absolvera..1	PRIM..1	absolverande..nn.1	absolverande	nn	nn_5n_saldo
+absolverbar..1	absolvera..1	möjlig..1	absolverbar..av.1	absolverbar	av	av_1_gul
+absolverbarhet..1	absolverbar..1	PRIM..1	absolverbarhet..nn.1	absolverbarhet	nn	nn_0u_boskap
+absolvering..1	absolvera..1	PRIM..1	absolvering..nn.1	absolvering	nn	nn_2u_mening
+absorbator..1	solfångare..1	PRIM..1	absorbator..nn.1	absorbator	nn	nn_3u_motor
+absorber..1	absorbera..1	PRIM..1	absorber..nn.1	absorber	nn	nn_2u_nyckel
+absorbera..1	uppta..1	PRIM..1	absorbera..vb.1	absorbera	vb	vb_1a_laga
+absorbera..2	uppta..3	PRIM..1	absorbera..vb.2	absorbera	vb	vb_1a_beundra
+absorberande..1	absorbera..1	PRIM..1	absorberande..nn.1	absorberande	nn	nn_5n_saldo
+absorberande..2	absorbera..2	PRIM..1	absorberande..nn.1	absorberande	nn	nn_5n_saldo
+absorberbar..1	absorbera..1	möjlig..1	absorberbar..av.1	absorberbar	av	av_1_gul
+absorberbar..2	absorbera..2	möjlig..1	absorberbar..av.1	absorberbar	av	av_1_gul
+absorberbarhet..1	absorberbar..1	PRIM..1	absorberbarhet..nn.1	absorberbarhet	nn	nn_0u_boskap
+absorberbarhet..2	absorberbar..2	PRIM..1	absorberbarhet..nn.1	absorberbarhet	nn	nn_0u_boskap
+absorbering..1	absorbera..1	PRIM..1	absorbering..nn.1	absorbering	nn	nn_2u_mening
+absorberingsförmåga..1	förmåga..1	absorbera..1	absorberingsförmåga..nn.1	absorberingsförmåga	nn	nn_1u_olja
+absorption..1	absorbera..1	PRIM..1	absorption..nn.1	absorption	nn	nn_3u_salong
+absorptionslinje..1	absorption..1	ljus..1	absorptionslinje..nn.1	absorptionslinje	nn	nn_4u_linje
+abstinens..1	alkoholism..1	PRIM..1	abstinens..nn.1	abstinens	nn	nn_0u_månsing
+abstinensbesvär..1	besvär..1	abstinens..1	abstinensbesvär..nn.1	abstinensbesvär	nn	nn_np_ordalag
+abstinenssyndrom..1	abstinens..1	PRIM..1	abstinenssyndrom..nn.1	abstinenssyndrom	nn	nn_0n_latin
+abstrahera..1	abstrakt..1	PRIM..1	abstrahera..vb.1	abstrahera	vb	vb_1a_beundra
+abstraherande..1	abstrahera..1	PRIM..1	abstraherande..nn.1	abstraherande	nn	nn_5n_saldo
+abstraherbar..1	abstrahera..1	möjlig..1	abstraherbar..av.1	abstraherbar	av	av_1_gul
+abstraherbarhet..1	abstraherbar..1	PRIM..1	abstraherbarhet..nn.1	abstraherbarhet	nn	nn_0u_boskap
+abstrahering..1	abstrahera..1	PRIM..1	abstrahering..nn.1	abstrahering	nn	nn_2u_mening
+abstrakt..1	konkret..1	motsats..1	abstrakt..av.1	abstrakt	av	av_1_akut
+abstrakt..2	substantiv..1	abstrakt..1	abstrakt..nn.1	abstrakt	nn	nn_3n_gift
+abstrakthet..1	abstrakt..1	PRIM..1	abstrakthet..nn.1	abstrakthet	nn	nn_0u_boskap
+abstraktion..1	abstrakt..1	PRIM..1	abstraktion..nn.1	abstraktion	nn	nn_3u_salong
+abstraktionsförmåga..1	förmåga..1	abstrahera..1	abstraktionsförmåga..nn.1	abstraktionsförmåga	nn	nn_0u_tjockolja
+abstraktändelse..1	ändelse..1	abstrakt..2	abstraktändelse..nn.1	abstraktändelse	nn	nn_4u_linje
+abstrus..1	oklar..1	PRIM..1	abstrus..av.1	abstrus	av	av_1_gul
+absurd..1	orimlig..1	PRIM..1	absurd..av.1	absurd	av	av_1_rund
+absurdhet..1	absurd..1	PRIM..1	absurdhet..nn.1	absurdhet	nn	nn_0u_boskap
+absurdism..1	konstriktning..1	absurd..1	absurdism..nn.1	absurdism	nn	nn_3u_karbid
+absurdistisk..1	absurdism..1	PRIM..1	absurdistisk..av.1	absurdistisk	av	av_0_medelstor
+absurditet..1	absurd..1	PRIM..1	absurditet..nn.1	absurditet	nn	nn_3u_salong
+abundans..1	abundant..1	PRIM..1	abundans..nn.1	abundans	nn	nn_0u_månsing
+abundant..1	överflöda..1	PRIM..1	abundant..av.1	abundant	av	av_1_akut
+abyssal..1	djup..2	hav..1	abyssal..av.1	abyssal	av	av_1_gul
+acanthamoebakeratit..1	parasitinfektion..1	öga..1	acanthamoebakeratit..nn.1	acanthamoebakeratit	nn	nn_3u_karbid
+a_capella..1	sång..2	PRIM..1	a_capella..abm.1	a capella	abm	abm_i_till_exempel
+a_capella..1	sång..2	PRIM..1	a_cappella..abm.1	a cappella	abm	abm_i_till_exempel
+accedera..1	registrera..1	bibliotek..1	accedera..vb.1	accedera	vb	vb_1a_beundra
+accederande..1	accedera..1	PRIM..1	accederande..nn.1	accederande	nn	nn_5n_saldo
+accederbar..1	accedera..1	möjlig..1	accederbar..av.1	accederbar	av	av_1_gul
+accederbarhet..1	accederbar..1	PRIM..1	accederbarhet..nn.1	accederbarhet	nn	nn_0u_boskap
+accedering..1	accedera..1	PRIM..1	accedering..nn.1	accedering	nn	nn_2u_mening
+acceleration..1	accelerera..1	PRIM..1	acceleration..nn.1	acceleration	nn	nn_3u_salong
