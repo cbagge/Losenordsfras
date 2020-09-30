@@ -15,7 +15,7 @@ dir = os.path.dirname(__file__)
 dictFile = os.path.join(dir, "SALDO", "saldo20v03.txt")
 
 # Output file
-outputFile = os.path.join(dir, "passphrase_dictionary.csv")
+outputFile = os.path.join(dir, "wordlist.js")
 
 #file="//nas3/users$/carlba/Documents/GitHub/L-senordsfras/Wordlist/SALDO/saldo20v03.txt"
 
@@ -80,12 +80,25 @@ def read_dictionary():
             # Add to list
             wordList.append(word)
 
+        # Housekeeping
+        tsvFile.close()
         return(wordCount, wordList)
 
 def write_dictionary(outputFile, wordList):
-    with open(outputFile, "wb") as csvFile:
-        wr = csv.writer(csvFile)
-        wr.writerow(wordList)
+    with open(outputFile, "w", encoding='utf8') as file:
+        # Create header for our .js file
+        file.write("var wordlist = [\n")
+
+        # Iterate over our wordlist, except the last element, and build the output file
+        for word in wordList[:-1]:
+            file.write("'" + word + "',\n")
+
+        # Write the last item and finishing touches
+        file.write("'" + wordList[-1] + "'\n")
+        file.write("];\n")
+
+        # Housekeeping
+        file.close()
 
 def main():
     # Parse and clean our dictionary
