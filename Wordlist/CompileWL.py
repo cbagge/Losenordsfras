@@ -20,7 +20,7 @@ outputFile = os.path.join(dir, "wordlist.js")
 #file="//nas3/users$/carlba/Documents/GitHub/L-senordsfras/Wordlist/SALDO/saldo20v03.txt"
 
 # Criteria
-maxWordLength = 12
+maxWordLength = 10
 minWordLength = 3
 stripAccents = True
 
