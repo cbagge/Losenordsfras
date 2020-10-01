@@ -34,4 +34,4 @@ vilket även har en språklig dimension som gör det lättare att komma ihåg. D
 
 # English
 
-Project generates a dictionary of swedish words suitable for building passphrases from. The basis i Gothenburg University's Saldo project (https://spraakbanken.gu.se/en/resources/saldo).
+Project generates a dictionary of swedish words suitable for building passphrases from. It is based on the dictionary from Gothenburg University's Saldo project (https://spraakbanken.gu.se/en/resources/saldo).
