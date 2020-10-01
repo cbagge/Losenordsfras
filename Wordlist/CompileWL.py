@@ -1,4 +1,13 @@
-# As to not butcher our proud å, ä and ö:s
+###
+# CompileWL
+#
+# Copyright 2020, Carl Bagge, https://github.com/cbagge/Losenordsfras
+#
+# This code is licensed under LGPL 3.0
+# <http://www.gnu.org/licenses/lgpl.html> 
+###
+#
+# As to not butcher our å, ä and ö:s
 import unicodecsv as csv
 # For stripping accents
 import unicodedata
@@ -87,6 +96,7 @@ def read_dictionary():
 def write_dictionary(outputFile, wordList):
     with open(outputFile, "w", encoding='utf8') as file:
         # Create header for our .js file
+        file.write(add_header())
         file.write("var wordlist = [\n")
 
         # Iterate over our wordlist, except the last element, and build the output file
@@ -111,6 +121,47 @@ def main():
     print("Word count in dicitionary: " + str(wordCount))
     print("Which gives our passphrase a secuity of " + calc_entropy(wordCount) + " bits per word in the passphrase")
     print("")
+
+def add_header():
+    return str("""// 
+// 
+// SALDO 2.3
+// Copyright 2015 Lars Borin, Markus Forsberg, Lennart Lönngren
+// and Språkbanken (the Swedish Language Bank), University of Gothenburg, Sweden
+// <http://spraakbanken.gu.se/>
+//
+// This is a free resource. You can freely use it, modify it and distribute it 
+// under the terms set out in either of the licenses
+// 
+// Creative Commons Attribution (BY) 3.0
+// or
+// GNU Lesser General Public License 3.0
+// 
+// You should have received both license texts distributed together 
+// with this resource. In other case, see
+// 
+// <http://creativecommons.org/licenses/by/3.0/>
+// and
+// <http://www.gnu.org/licenses/lgpl.html>
+// 
+// In publications where this resource is used, please 
+// refer to SALDO and the following work:
+//
+// Borin, Lars, Markus Forsberg and Lennart Lönngren 2013.
+// SALDO: a touch of yin to WordNet's yang. 
+// Language Resources and Evaluation 47(4): 1191-1211.
+// 
+// ============================================================================
+//
+// CompileWL
+//
+// Copyright 2020, Carl Bagge, https://github.com/cbagge/Losenordsfras
+//
+// This code is licensed under LGPL 3.0
+// <http://www.gnu.org/licenses/lgpl.html> 
+//
+//\n"""
+    )
 
 if __name__ == "__main__":
     main()

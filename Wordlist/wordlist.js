@@ -1,3 +1,41 @@
+// 
+// 
+// SALDO 2.3
+// Copyright 2015 Lars Borin, Markus Forsberg, Lennart Lönngren
+// and Språkbanken (the Swedish Language Bank), University of Gothenburg, Sweden
+// <http://spraakbanken.gu.se/>
+//
+// This is a free resource. You can freely use it, modify it and distribute it 
+// under the terms set out in either of the licenses
+// 
+// Creative Commons Attribution (BY) 3.0
+// or
+// GNU Lesser General Public License 3.0
+// 
+// You should have received both license texts distributed together 
+// with this resource. In other case, see
+// 
+// <http://creativecommons.org/licenses/by/3.0/>
+// and
+// <http://www.gnu.org/licenses/lgpl.html>
+// 
+// In publications where this resource is used, please 
+// refer to SALDO and the following work:
+//
+// Borin, Lars, Markus Forsberg and Lennart Lönngren 2013.
+// SALDO: a touch of yin to WordNet's yang. 
+// Language Resources and Evaluation 47(4): 1191-1211.
+// 
+// ============================================================================
+//
+// CompileWL
+//
+// Copyright 2020, Carl Bagge, https://github.com/cbagge/Losenordsfras
+//
+// This code is licensed under LGPL 3.0
+// <http://www.gnu.org/licenses/lgpl.html> 
+//
+//
 var wordlist = [
 'aalto',
 'aaron',
