@@ -31,3 +31,7 @@ får du exempelvis
 `gul höna städar utefest`
 
 vilket även har en språklig dimension som gör det lättare att komma ihåg. Det skulle sänka komplexiteten för lösenfraserna, men det skulle vara intressant att se med hur mycket/lite. Jag tror det skulle kunna vara en rimlig trade-off.
+
+# English
+
+Project generates a dictionary of swedish words suitable for building passphrases from. The basis i Gothenburg University's Saldo project (https://spraakbanken.gu.se/en/resources/saldo).
