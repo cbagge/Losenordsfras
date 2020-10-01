@@ -22,7 +22,7 @@ Resulteradnde ordlistan (från ungefär 120k poster till knappa hälften) funkar
 
 ## Utveckling
 
-Att få grunddata där även ordklass är markerad för att skapa lösenfraser som är enklare att komma ihåg. I nuläget får du X antal slumpade ord, men med grunddata som är medveten om ordklass kan du skapa lösenfraser av typen adjektiv + substantiv + verb + substantiv. Så istället för 
+Att bygga om så att man genererar ordlistor utifrån ordklass för att skapa lösenfraser som är enklare att komma ihåg. I nuläget får du X antal slumpade ord, men med ordlistor som är medvetna om ordklass kan du skapa lösenfraser av typen adjektiv + substantiv + verb + substantiv (exempelvis). Så istället för 
 
 `ledbruten lustmord kaustika hälsoskäl`
 
