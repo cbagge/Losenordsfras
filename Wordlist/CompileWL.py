@@ -125,6 +125,15 @@ def main():
 def add_header():
     return str("""// 
 // 
+// CompileWL
+//
+// Copyright 2020, Carl Bagge, https://github.com/cbagge/Losenordsfras
+//
+// This code is licensed under LGPL 3.0
+// <http://www.gnu.org/licenses/lgpl.html> 
+//
+// ============================================================================
+//
 // SALDO 2.3
 // Copyright 2015 Lars Borin, Markus Forsberg, Lennart Lönngren
 // and Språkbanken (the Swedish Language Bank), University of Gothenburg, Sweden
@@ -152,14 +161,6 @@ def add_header():
 // Language Resources and Evaluation 47(4): 1191-1211.
 // 
 // ============================================================================
-//
-// CompileWL
-//
-// Copyright 2020, Carl Bagge, https://github.com/cbagge/Losenordsfras
-//
-// This code is licensed under LGPL 3.0
-// <http://www.gnu.org/licenses/lgpl.html> 
-//
 //\n"""
     )
 
